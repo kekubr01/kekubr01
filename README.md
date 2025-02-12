@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<img src="/heading.gif" width="1200">
 
 ## 💻About Me💻
 
