@@ -1,20 +1,17 @@
-<h1 align="left">✨ Hello and Welcome ✨</h1>
+![Header](./github-header-image.png)
 
-###
+## 💻About Me💻
 
 <img align="right" height="200" src="https://media1.tenor.com/m/pBdSZujHiacAAAAC/tkthao219-bunny.gif"  />
 
-###
 
 <p align="left">
-    💻 I am a non-traditional college student majoring in Networking and Cyber Security.<br><br>
+    📔 I'm a nontradional student. 
     📚 I'm currently studying multiple computing languages including Java, HTML, CSS, COBOL, and mySQL.<br><br>
     🎮 I'm an avid gamer and spend a lot of time playing games when I'm not studying.<br><br>
     🧶 When I am away from my computer, I am either cross stitching or crocheting.<br><br>
     📖 I'm also studying Japanese in my free time. がんばってください！
 </p>
-
-###
 
 <br clear="both">
 
@@ -30,4 +27,3 @@
   </a>
 </div>
 
-###
