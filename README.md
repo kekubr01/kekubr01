@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="left">✨ Hello and Welcome ✨</h1>
 
-<!--
-**kekubr01/kekubr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="200" src="https://media1.tenor.com/m/pBdSZujHiacAAAAC/tkthao219-bunny.gif"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">💻 I am a non-traditional college student majoring in Networking and Cyber Security.<br><br>📚 I'm currently studying multiple computing languages including Java, HTML, CSS, COBOL, and mySQL.<br><br>🎮 I'm an avid gamer and spend a lot of time playing games when I'm not studying.<br><br>🧶 When I am away from my computer, I am either cross stitching or crocheting.<br><br>📖 I'm also studying Japanese in my free time. がんばってください！</p>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/kelsi-kubr-89650a152/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@fanglett" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://ko-fi.com/fanglett" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+  </a>
+</div>
+
+###
