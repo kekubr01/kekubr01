@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">💻 I am a non-traditional college student majoring in Networking and Cyber Security.<br><br>📚 I'm currently studying multiple computing languages including Java, HTML, CSS, COBOL, and mySQL.<br><br>🎮 I'm an avid gamer and spend a lot of time playing games when I'm not studying.<br><br>🧶 When I am away from my computer, I am either cross stitching or crocheting.<br><br>📖 I'm also studying Japanese in my free time. がんばってください！</p>
+<p align="left">
+    💻 I am a non-traditional college student majoring in Networking and Cyber Security.<br><br>
+    📚 I'm currently studying multiple computing languages including Java, HTML, CSS, COBOL, and mySQL.<br><br>
+    🎮 I'm an avid gamer and spend a lot of time playing games when I'm not studying.<br><br>
+    🧶 When I am away from my computer, I am either cross stitching or crocheting.<br><br>
+    📖 I'm also studying Japanese in my free time. がんばってください！
+</p>
 
 ###
 
