@@ -1,4 +1,4 @@
-<img src="/heading.png">
+<img src="/Heading.png">
 
 ## 💻About Me💻
 
