@@ -13,6 +13,19 @@
     📖 I'm also studying Japanese in my free time. がんばってください！
 </p>
 
+## 🖥Improving Skills🖥
+* Blender
+* C++
+ * Java
+
+## 💼Hopeful Future Certifications💼
+ * CompTIA Security+
+ * Certified Ethical Hacker (CEH)
+ * Certified Information Systems Security Professional (CISSP)
+ * GIAC Security Essentials (GSEC)
+ * Offensive Security Certified Professional (OSCP)
+    
+
 <br clear="both">
 
 <div align="right">
