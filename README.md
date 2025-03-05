@@ -6,7 +6,7 @@
 
 
 <p align="left">
-    📔 I'm a nontradional student. <br><br>
+    📔 I'm a nontraditional student. <br><br>
     📚 I'm currently studying multiple computing languages including Java, HTML, CSS, COBOL, and SQL.<br><br>
     🎮 I'm an avid gamer and spend a lot of time playing games when I'm not studying.<br><br>
     🧶 When I am away from my computer, I am either cross stitching or crocheting.<br><br>
@@ -16,14 +16,14 @@
 ## 🖥Improving Skills🖥
 * Blender
 * C++
- * Java
+* Java
 
 ## 💼Hopeful Future Certifications💼
- * CompTIA Security+
- * Certified Ethical Hacker (CEH)
- * Certified Information Systems Security Professional (CISSP)
- * GIAC Security Essentials (GSEC)
- * Offensive Security Certified Professional (OSCP)
+* CompTIA Security+
+* Certified Ethical Hacker (CEH)
+* Certified Information Systems Security Professional (CISSP)
+* GIAC Security Essentials (GSEC)
+* Offensive Security Certified Professional (OSCP)
     
 
 <br clear="both">
